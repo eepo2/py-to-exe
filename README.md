@@ -11,11 +11,11 @@
 
 ---
 
-#### py-to-exe was made by
+#### 🖤・py-to-exe was made by
 
 Love ❌ code ✅
 
-#### When you add your file.py to the input the this will happen :
+#### ❔・When you add your file.py to the input the this will happen :
 
 - Your file will be executable
 - And it will work as your script telling
