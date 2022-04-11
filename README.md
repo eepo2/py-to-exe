@@ -34,7 +34,7 @@ Love ❌ code ✅
 3 - if you got any issue please contact me in the issues
   
 ### 💠・Contact me
-<h3 align="left">Socials:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://instagram.com/thegreatvex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0VEX" height="30" width="40" /></a>
 <a href="https://t.me/thegreatvex" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="thegreatvex" height="30" width="40" /></a>
