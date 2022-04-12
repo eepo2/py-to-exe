@@ -25,12 +25,15 @@ Love ❌ code ✅
 ### 📁・How to use py to exe tool :
   
 1. Double click the file called `py-to-exe.py`
+  
 2. Add your `file.py` to the input then press enter
   
 ### ❗・Some issues and notes
 
 1 - Your file must be in the same path inside the tool
+  
 2 - If you're going to add the file add it with .py
+  
 3 - if you got any issue please contact me in the issues
   
 ### 💠・Contact me
